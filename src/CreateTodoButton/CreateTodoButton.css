@@ -1,0 +1,13 @@
+.createTodoButton{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    color: azure;
+    font-size: 16px;
+    background-color: hsla(270, 85%, 52%, 0.267);
+    border-radius: 15px;
+    border: none;
+    width: 300px;
+    margin-left: 9%;
+    margin-top: 15px;
+    align-items: center;
+}

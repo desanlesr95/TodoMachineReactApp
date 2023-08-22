@@ -1,0 +1,45 @@
+.text-todo{
+    font-size: 15px;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    margin: 18px;
+    letter-spacing: 2px;
+    text-align: center;
+    flex: 1;
+}
+
+li{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: none;
+    background-color:  rgb(0, 50, 166);
+    z-index: 12;
+    width: 500px;
+}
+
+.check{
+    flex: 0 0 auto;
+    
+}
+
+.delete{
+    margin-left: auto;
+    
+}
+
+
+.Icon-active-completed{
+    color:rgb(21, 209, 21)!important;
+}
+
+.Icon{
+    color: gray;
+}
+
+
+.p-completed{
+    text-decoration: line-through;
+}

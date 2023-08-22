@@ -1,0 +1,10 @@
+input{
+    min-width: 500px;
+    max-width: 1200px;
+    padding:  10px 10px 10px 10px;
+    border-radius: 5px;
+    border-color: rgb(198, 191, 182);
+    border: 2px;
+    font-size: 16px;
+    text-align: center;
+}
